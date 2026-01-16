@@ -1,5 +1,5 @@
 {
-  "name": "@r-tanner-f/nestjs-mock-auth",
+  "name": "@bitovi-corp/auth-middleware",
   "version": "0.1.0",
   "description": "NestJS mock authentication middleware with JWT parsing and role-based access control (development mode only)",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "mock",
     "development"
   ],
-  "author": "",
+  "author": "Bitovi Corp",
   "license": "MIT",
   "peerDependencies": {
     "@nestjs/common": "^11.0.0",
